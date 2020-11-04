@@ -1,5 +1,5 @@
 ===============
-EEE3097S design
+EEE3097S Smart School API
 ===============
 
 
@@ -20,9 +20,6 @@ EEE3097S design
 
 
 
-t that deals with creating an API for an IoT system that allows wireless file transfer
-
-
 * Free software: MIT license
 * Documentation: https://Design.readthedocs.io.
 
@@ -30,7 +27,9 @@ t that deals with creating an API for an IoT system that allows wireless file tr
 Features
 --------
 
-* TODO
+* Transfer and manage files between devices wirelessly
+* Request files for later download without intenet connection
+* Download files from external websites and add to local storage
 
 Credits
 -------
