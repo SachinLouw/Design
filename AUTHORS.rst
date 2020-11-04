@@ -2,14 +2,8 @@
 Credits
 =======
 
-Development Lead
+Development and Contributors
 ----------------
 
 * Zwanga <mkwzwa003@myuct.ac.za>
 * Sachin <lwxsac001@myuct.ac.za>
-
-
-Contributors
-------------
-
-None yet. Why not be the first?
