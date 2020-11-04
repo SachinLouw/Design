@@ -5,7 +5,9 @@ Credits
 Development Lead
 ----------------
 
-* Zwanga <zwangatm3@gmail.com>
+* Zwanga <mkwzwa003@myuct.ac.za>
+* Sachin <lwxsac001@myuct.ac.za>
+
 
 Contributors
 ------------
