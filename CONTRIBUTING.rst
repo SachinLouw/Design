@@ -38,8 +38,8 @@ and "help wanted" is open to whoever wants to implement it.
 Write Documentation
 ~~~~~~~~~~~~~~~~~~~
 
-EEE3097S design could always use more documentation, whether as part of the
-official EEE3097S design docs, in docstrings, or even on the web in blog posts,
+EEE3097S Smart School API could always use more documentation, whether as part of the
+official EEE3097S Smart School API docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 Submit Feedback
